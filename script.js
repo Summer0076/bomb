@@ -1,4 +1,4 @@
-const correctPassword = '934'; // Change ce mot de passe selon tes besoins
+const correctPassword = '7324'; // Change ce mot de passe selon tes besoins
 
 document.getElementById('submit').addEventListener('click', () => {
     const password = document.getElementById('password').value;
